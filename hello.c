@@ -6,6 +6,7 @@
 #include<stdio.h>
 
 int main(int argc, char **argv) {
-    printf("hello world! This is my message");
+    printf("John Mentgen! Thats me :)\n");
+    printf("My major: CE/BA Jazz\n");
     return 0;
 }
